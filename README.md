@@ -21,14 +21,14 @@ Create the following values at the first places of memory ```0, 45, 63, 99, 108`
 Then dumps the single letters
 
 ```
->>>++++.
+>>>+.
 ---.
->--.
+>++.
 -----.
 <++++.
 >+++.
 <.
-<<--.
+<<+.
 >>>+++.
 ---.
 +.
@@ -37,7 +37,7 @@ Then dumps the single letters
 <--------.
 >-----.
 -----.
-<<.
+<<+.
 >>--.
 ++++++.
 <.
