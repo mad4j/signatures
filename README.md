@@ -13,10 +13,10 @@ geeky signature (186 chars)
 ### How it works
 
 ```
-++++++++[>++++++>++++++++>++++++++++++>++++++++++++++<<<<-]
++++++++++[>+++++>+++++++>+++++++++++>++++++++++++<<<<-]
  ````
  
-Create the following values at the first places of memory ```0, 48, 64, 96, 112```
+Create the following values at the first places of memory ```0, 45, 63, 99, 108```
 
 Then dumps the single letters
 
