@@ -9,6 +9,7 @@ geeky signature (186 chars)
 ++++.<.>----.+++.<<<.>>++.>+++.--.####
 ```
 
+![signature](bf-signature.png) 
 
 ### How it works
 
