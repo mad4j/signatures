@@ -1,12 +1,12 @@
 # bf-signature
-geeky signature (178 chars; 6.85 instructions/output)
+geeky signature (177 chars; 6.81 instructions/output)
 
 ```
 +++++++++[>+++++>++++++++++++>++++++++
 +++>++++++++++++>+++++++<<<<<-]>>>+.--
 -.<++.>>---.<++++.>+++.<.<<+.>+.>>.+.-
 ---.<<++++.>----.<-----.>>.>+.<--.<<-.
->.>++.+++.<<<.>>++.<++.--.############
+>.>++.<<-.<.>>++.<+++.--.#############
 ```
 
 
@@ -16,9 +16,9 @@ geeky signature (178 chars; 6.85 instructions/output)
 
 ```
 +++++++++[>+++++>++++++++++++>+++++++++++>++++++++++++>+++++++<<<<<-]
- ````
+```
  
-Create the following values at the first places of memory ```0, 45, 63, 108, 99, 108```
+Create the following values at the first places of memory ```0, 45, 108, 99, 108, 63```
 
 Then dump each letter.
 
