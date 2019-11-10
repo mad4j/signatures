@@ -17,7 +17,7 @@ geeky signature (177 chars; 6.81 instructions/output)
 
 ### How it works
  
-Create the following values at the first places of memory ```0, 45, 108, 99, 108, 63```
+Create the following values at the first places of memory ```0, 45, 99, 108, 108, 63```
 
 ```
 +++++++++[>+++++>+++++++++++>++++++++++++>++++++++++++>+++++++<<<<<-]
