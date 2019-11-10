@@ -1,5 +1,5 @@
 # bf-signature
-geeky signature (178 chars; 6.85 instructions/output)
+geeky signature (177 chars; 6.81 instructions/output)
 
 ```
 +++++++++[>+++++>++++++++++++>++++++++
