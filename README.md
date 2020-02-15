@@ -17,10 +17,10 @@ geeky signature (151 bytes; 5.8 bytes/output)
 
 ### How it works
  
-Create the following values at the first places of memory ```0, 45, 99, 108, 108, 63```
+Create the following values at the first places of memory ```0, 0, 45, 99, 108, 108, 63```
 
 ```
-+++++++++[>>--->+++>++++>++++>-[++++++++<]<-
++++++++++[>>--->+++>++++>++++>-[++++++++<]<-] 
 ```
 
 Then dump each letter.
