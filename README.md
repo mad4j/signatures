@@ -50,4 +50,4 @@ Then dump each letter.
 (34)A$CHR%(34):DATA"
 ```
 
-![signature](brainfuck/bf-signature.png)
+![signature](c64quine/c64quine-signature.png)
