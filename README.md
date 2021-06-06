@@ -37,7 +37,7 @@ Then dump each letter.
 * https://fatiherikli.github.io/brainfuck-visualizer/
 * https://tnu.me/brainfuck/generator
 
-### Logo
+### Design
 
 ![signature](design/mad4j-logo.png)
 
