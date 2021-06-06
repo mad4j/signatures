@@ -1,4 +1,7 @@
-# signature-bf
+# Signatures
+
+## Brainfuck
+
 geeky signature (151 bytes; 5.8 bytes/output)
 
 ```
@@ -30,8 +33,12 @@ Then dump each letter.
 100 97 110 105 101 108 101 46 111 108 109 105 115 97 110 105 64 103 109 97 105 108 46 99 111 109 
 ```
 
-## Tools
+### Tools
 
 * https://fatiherikli.github.io/brainfuck-visualizer/
 * https://tnu.me/brainfuck/generator
+
+### Logo
+
+### C64 Quine
 
