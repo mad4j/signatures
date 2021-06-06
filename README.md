@@ -37,11 +37,11 @@ Then dump each letter.
 * https://fatiherikli.github.io/brainfuck-visualizer/
 * https://tnu.me/brainfuck/generator
 
-### Design
+## Design
 
 ![signature](design/mad4j-logo.png)
 
-### C64 Quine
+## C64 Quine
 
 ```
 1 READA$:PRINTA$CHR$
