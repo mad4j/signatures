@@ -39,6 +39,8 @@ Then dump each letter.
 
 ### Logo
 
+![signature](design/mad4j-logo.png)
+
 ### C64 Quine
 
 ```
