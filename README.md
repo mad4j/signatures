@@ -51,3 +51,11 @@ Then dump each letter.
 ```
 
 ![signature](c64quine/c64quine-signature.png)
+
+## Numbers
+
+### Hex
+
+```
+64616E69656C65206F6C6D6973616E69
+```
