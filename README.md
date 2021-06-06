@@ -1,4 +1,4 @@
-# bf-signature
+# signature-bf
 geeky signature (151 bytes; 5.8 bytes/output)
 
 ```
