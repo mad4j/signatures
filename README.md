@@ -74,3 +74,10 @@ daniele.olmisani@gmail.com
 01101111 01101101
 
 ```
+
+### Some useful tips
+
+``` bash
+$ echo -n "Daniele Olmisani" | hexdump -v -e '/1 "%02X"' ; echo
+44616E69656C65204F6C6D6973616E69
+```
