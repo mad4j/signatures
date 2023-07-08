@@ -34,7 +34,7 @@ Then dump each letter.
 
 ### Tools
 
-* https://fatiherikli.github.io/brainfuck-visualizer/
+* https://fatiherikli.github.io/brainfuck-visualizer
 * https://tnu.me/brainfuck/generator
 
 ## Design
