@@ -81,7 +81,10 @@ daniele.olmisani@gmail.com
 print((int.from_bytes(hashlib.sha256(b"=SHAT").digest())+63) % 10**10)
 ```
 
+```latex
 \[|SHA_{256}(=SHAT)+63|_{10^{10}}\]
+```
+
 
 
 ### Some useful tips
