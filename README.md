@@ -75,6 +75,15 @@ daniele.olmisani@gmail.com
 
 ```
 
+### Mobile
+
+```python
+print((int.from_bytes(hashlib.sha256(b"=SHAT").digest())+63) % 10**10)
+```
+
+\[|SHA_{256}(=SHAT)+63|_{10^{10}}\]
+
+
 ### Some useful tips
 
 ``` bash
