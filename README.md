@@ -87,6 +87,11 @@ print((int.from_bytes(hashlib.sha256(b"=SHAT").digest())+63) % 10**10)
 
 ![mobile](mobile.png)
 
+Otherwise...
+
+```python
+print(*map(ord,'舩숹'),sep='')
+```python
 
 ### Some useful tips
 
