@@ -89,8 +89,16 @@ print((int.from_bytes(hashlib.sha256(b"=SHAT").digest())+63) % 10**10)
 
 Otherwise...
 
+Python:
+
 ```python
 print(*map(ord,'舩숹'),sep='')
+```
+
+J (APL):
+
+```j
+,/":u:'舩숹'
 ```
 
 ### Some useful tips
