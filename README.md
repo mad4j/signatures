@@ -92,7 +92,10 @@ Otherwise...
 Python:
 
 ```python
-print(*map(ord,'舩숹'),sep='')
+print(map(ord,'舩숹'))
+
+# whithout spaces
+# print(*map(ord,'舩숹'),sep='')
 ```
 
 J (APL):
