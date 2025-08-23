@@ -91,7 +91,7 @@ Otherwise...
 
 ```python
 print(*map(ord,'舩숹'),sep='')
-```python
+```
 
 ### Some useful tips
 
