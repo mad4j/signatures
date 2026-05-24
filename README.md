@@ -15,6 +15,20 @@ geeky signature (151 bytes; 5.8 bytes/output)
 ++.>+++.--.
 ```
 
+geeky signature (148 bytes; 5.7 bytes/output)
+
+```bf
++++++++++[>>---->++>
++++>+++>++>--[++++++
++++<]<-]>>>+.---.>++
+.>---.>++.<+++.>.<<<
+<+.>>+.>.+.----.<+++
++.<.>-----.>.>>+.<++
+.<<-.<.>>.<-.<<.>++.
+>+++.--.
+```
+
+
 ![signature](brainfuck/bf-signature.png)
 
 ### How it works
