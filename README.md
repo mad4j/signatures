@@ -2,19 +2,6 @@
 
 ## Brainfuck
 
-geeky signature (151 bytes; 5.8 bytes/output)
-
-```bf
-+++++++++[>>--->+++>
-++++>++++>-[++++++++
-<]<-]>>>+.---.>++.>-
---.<<++++.>>+++.<<.<
-+.>>+.>.+.----.<++++
-.<----.>-----.>.>+.<
---.<-.<.>>++.<-.<<.>
-++.>+++.--.
-```
-
 geeky signature (148 bytes; 5.7 bytes/output)
 
 ```bf
@@ -29,7 +16,7 @@ geeky signature (148 bytes; 5.7 bytes/output)
 ```
 
 
-![signature](brainfuck/bf-signature.png)
+![signature](brainfuck/bf-signature-148.png)
 
 ### How it works
 
