@@ -2,7 +2,7 @@
 
 ## Brainfuck
 
-geeky signature (148 bytes; 5.7 bytes/output)
+geeky signature (148 bytes; 5.7 instructions per character)
 
 ```bf
 +++++++++[>>---->++>
