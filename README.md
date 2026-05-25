@@ -20,18 +20,33 @@ geeky signature (148 bytes; 5.7 bytes/output)
 
 ### How it works
 
-Create the following values at the first places of memory ```0, 0, 45, 99, 108, 108, 63```
+Create the following values at the first places of memory ```0, 0, 45, 99, 108, 108, 99, 63```
 
 ```bf
-+++++++++[>>--->+++>++++>++++>-[++++++++<]<-] 
++++++++++[>>---->++>+++>+++>++>--[+++++++++<]<-]
 ```
 
-Then dump each letter.
+The inner loop multiplies the seed (9) by the inner increment to produce each base value:
+
+| Cell | Value | Notes |
+|------|-------|-------|
+| 0    |   0   | loop counter (exhausted) |
+| 1    |   0   | unused |
+| 2    |  45   | `−` — base offset (9 × −5 = −45 → wrapped) |
+| 3    |  99   | `c` — 9 × 11 |
+| 4    | 108   | `l` — 9 × 12 |
+| 5    | 108   | `l` — 9 × 12 |
+| 6    |  99   | `c` — extra precomputed base (saves movements in output) |
+| 7    |  63   | `?` — 9 × 7 |
+
+Then dump each letter by navigating between cells and adjusting values with `+`/`-`:
 
 ```
  d   a  n   i   e   l   e   .  o   l   m   i   s   a  n   i   @  g   m   a  i   l   .  c  o   m 
 100 97 110 105 101 108 101 46 111 108 109 105 115 97 110 105 64 103 109 97 105 108 46 99 111 109 
 ```
+
+The extra `99` cell (compared to the 151-char solution) costs 3 characters in the init loop but saves 6 in the output section, for a net gain of 3 characters.
 
 ### Tools
 
